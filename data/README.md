@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic trip chains, service network, demographic survey and intervention records for mobility policy review.
+用于评估交通措施的合成出行链、服务网络、群体调查与实施记录。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
