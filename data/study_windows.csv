@@ -1,0 +1,5 @@
+study_id,corridor_id,group_role,period,measure_id,service_version
+ST1,North,treated,2025-Q4,M01,N3
+ST1,North,treated,2026-Q2,M01,N4
+ST1,West,comparison,2025-Q4,,N3
+ST1,West,comparison,2026-Q2,,N3
