@@ -1,0 +1,4 @@
+journey_id,leg_no,mode,from_stop,to_stop,depart_at,person_group,sample_weight
+J01,1,bus,A,B,2026-05-03T08:00,all,1.0
+J01,2,metro,B,C,2026-05-03T08:24,all,1.0
+J02,1,bike,D,E,2026-05-03T08:10,students,1.8

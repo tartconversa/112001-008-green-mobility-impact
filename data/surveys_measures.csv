@@ -1,0 +1,4 @@
+record_id,period,group_id,sample_n,population_n,measure_id,stage,activated_at,budget
+S01,2025-Q4,students,48,4200,M01,planned,,120000
+S02,2026-Q2,students,76,4150,M01,operating,2026-04-01,120000
+S03,2026-Q2,older_adults,12,2100,M02,operating,2026-05-15,85000
