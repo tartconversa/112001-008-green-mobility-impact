@@ -1,0 +1,4 @@
+measure_id,name,kind,scope_corridors,activation_date
+M01,Bus feeder to metro,bus_feeder,RIV;HIL,2026-04-01
+M02,Walkway upgrade,walking,RIV,2026-04-01
+M03,Public bike stations,bike_share,RIV,2026-05-01

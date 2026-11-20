@@ -1,0 +1,7 @@
+study_id,corridor_id,group_role,period_id,measure_id,service_version
+PILOT,RIV,treated,2025-Q4,,N3
+PILOT,RIV,treated,2026-Q2,M01|M02|M03,N4
+PILOT,HIL,comparison,2025-Q4,,N3
+PILOT,HIL,comparison,2026-Q2,M01,N3
+PILOT,DOC,comparison,2025-Q4,,N3
+PILOT,DOC,comparison,2026-Q2,,N3

@@ -1,0 +1,2 @@
+change_id,stop_id,effective_date,from_area,to_area,changed_fields,reason
+NC01,E,2026-04-01,West,East,area_id,西侧站点迁至郊区换乘枢纽，不再隶属原走廊

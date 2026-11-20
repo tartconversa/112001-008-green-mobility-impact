@@ -1,5 +1,6 @@
 dataset,records,purpose
 trip_legs.csv,3,trip_legs
-network.csv,3,network
-surveys_measures.csv,3,surveys_measures
+network.csv,6,network
+surveys_measures.csv,4,surveys_measures
 study_windows.csv,4,study_windows
+counts.csv,4,counts

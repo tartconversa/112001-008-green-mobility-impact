@@ -1,0 +1,2 @@
+amendment_id,record_id,effective_date,previous_sample_n,new_sample_n,previous_population_n,new_population_n,moved_from_group,moved_to_group,moved_count,reason
+AM01,S06,2026-07-10,22,22,2550,2550,older_adults,commuters,8,补样核对后发现 8 名受访者年龄归属应为通勤者

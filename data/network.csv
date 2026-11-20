@@ -1,4 +1,7 @@
-stop_id,route_id,valid_from,valid_to,service_hours,area_id
-A,R1,2025-01-01,2026-05-31,18,North
-B,R1,2025-01-01,,18,North
-C,M2,2025-01-01,,20,South
+stop_id,route_id,version,valid_from,valid_to,service_hours,area_id
+A,R1,N3,2025-01-01,2026-03-31,18,North
+A,R1,N4,2026-04-01,,20,North
+B,R1,N3,2025-01-01,,18,North
+C,M2,N3,2025-01-01,,20,West
+D,K1,N3,2025-01-01,,20,West
+E,K1,N3,2025-01-01,,20,West

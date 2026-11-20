@@ -1,4 +1,5 @@
-record_id,period,group_id,sample_n,population_n,measure_id,stage,activated_at,budget
-S01,2025-Q4,students,48,4200,M01,planned,,120000
-S02,2026-Q2,students,76,4150,M01,operating,2026-04-01,120000
-S03,2026-Q2,older_adults,12,2100,M02,operating,2026-05-15,85000
+record_id,study_id,corridor_id,period_id,group_id,sample_n,population_n,measure_id,stage,activated_at,budget
+S01,ST1,North,2025-Q4,students,48,4200,,baseline,,0
+S02,ST1,North,2026-Q2,students,76,4150,M01,operating,2026-04-01,120000
+S03,ST1,West,2025-Q4,students,40,3900,,baseline,,0
+S04,ST1,West,2026-Q2,students,44,3950,,baseline,,0

@@ -1,0 +1,5 @@
+count_id,study_id,corridor_id,period_id,stop_id,observed_count,coverage_ratio,source
+C01,ST1,North,2025-Q4,A,1000,0.9,gate
+C02,ST1,North,2026-Q2,A,1500,0.9,gate
+C03,ST1,West,2025-Q4,C,800,0.9,gate
+C04,ST1,West,2026-Q2,C,830,0.9,gate

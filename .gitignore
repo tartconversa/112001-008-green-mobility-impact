@@ -10,3 +10,6 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Evidence snapshots and decision ledger written by the CLI
+workspace/
